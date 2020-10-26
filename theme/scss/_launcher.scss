@@ -1,0 +1,71 @@
+
+	#splashframetext{
+		width:924px;
+		min-height:668px;
+		display:block;
+		overflow:hidden;
+		background: transparent url('I010/bg_splash.jpg') 0 0 no-repeat;
+	}
+.obfuscated{
+	display:none;
+	}
+#wordmark, #splash-content, #canada-logo{width:890px;}
+#noclose{visibility:hidden;}
+#splashContainer{width:890px; margin:0 auto;}
+#splash-content {
+	background: transparent url('I010/launchBack.jpg') 0 0 no-repeat; height:518px;
+
+    background: transparent url(I010/launchBack.jpg) 0 0 no-repeat;
+    height: 518px;
+    font-size: 1em;
+    position: relative;
+    top: 30px;
+    -webkit-transform: none!important;
+    transform: none!important;
+
+
+	} /* launch-image */
+
+
+
+
+
+
+#title-welcome{display:none;}
+/*#launch-area{
+	width:20%;
+	float:left;
+	border-left: 1px solid #006b7d;
+	height:150px;
+}*/
+#splash-box{
+	padding-top:185px;	
+	margin-left:400px;
+}
+#launch-placement{margin-top:25px; text-align:center;}
+	#manualpop{visibility:hidden; /*font-size:14px;*/}
+	a#launch-btn{ /* launch-btn */
+	padding:5px 25px 5px 25px;
+	text-align:center;
+	border: 1px solid #01353f;
+	color:#FFF;
+	text-decoration:none;
+	background-color:#276273;
+	display:inline-block;
+	margin-top: 10px;
+	/*font-size:24px;*/
+	border-radius:4px
+	}
+	a#launch-btn:hover{ /* launch-btn-hover */
+	padding:5px 25px 5px 25px;
+	text-align:center;
+	background-color:#b1611b;
+	text-decoration:none;
+	}
+#title-area{font-size:24px; padding-top:25px; /*background:url('I010/logo.png') center center no-repeat;*/text-align:center;} /*launch-logo*/
+	#title-welcome{padding:70px;}
+	#coursename {font-family:"Gotham Bold", sans-serif, "Myriad Pro"; color:#276273; font-weight:bold; font-size:1.5em } /* launch-course-text */
+	#subcoursename{font-family:"Gotham Book", sans-serif, "Myriad Pro"; color:#276273; display:block; font-size:1em; }
+#canada-logo{width:890px; text-align:right;}
+
+

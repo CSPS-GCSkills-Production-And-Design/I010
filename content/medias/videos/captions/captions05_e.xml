@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">  
+<head>
+    <styling>
+      <style id="defaultCaption" tts:fontSize="16" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="yellow" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+<body STYLE="defaultCaption">
+       <div begin="0.2s" dur="5.40s"><p><![CDATA[<font size="16">I coordinate the activities of a number managers in a variety of areas across the department.</font></p></div>
+	   <div begin="5.35s" dur="5.50s"><p><![CDATA[<font size="16"> I find GCDOCS really useful when I need to collaborate with colleagues from across the country.</font></p></div>
+	   <div begin="9.70s" dur="3.50s"><p><![CDATA[<font size="16">For example, I am often called upon to set up meetings</font></p></div>
+	   <div begin="12.50s" dur="4.0s"><p><![CDATA[<font size="16">with working groups who have representatives for every region in Canada.</font></p></div>
+	   <div begin="16.40s" dur="5.0s"><p><![CDATA[<font size="16">GCDOCS allows me to create virtual workspaces so that we can instantly share</font></p></div>
+	   <div begin="20.40s" dur="3.50s"><p><![CDATA[<font size="16">and collaborate on information that was presented during the meetings. </font></p></div>
+	   <div begin="23.40s" dur="3.0s"><p><![CDATA[<font size="16">This has really made my life easier.</font></p></div>
+	   <div begin="26.40s" dur="7.0s"><p><![CDATA[<font size="16">With the old way of working I would have to email documents from the meeting to all 50 working group members. </font></p></div>
+	   <div begin="33.0s" dur="5.0s"><p><![CDATA[<font size="16">That means I would get 50 attachments coming back with all their comments.</font></p></div>
+	   <div begin="37.40s" dur="5.0s"><p><![CDATA[<font size="16">And of course, this all had to be amalgamated back into one document for my Manager.</font></p></div>
+	   <div begin="41.40s" dur="5.0s"><p><![CDATA[<font size="16">Now all I have to do is send a link to the document in our workspace</font></p></div>
+	   <div begin="44.70s" dur="4.0s"><p><![CDATA[<font size="16">and have everyone add their comments to the one piece of information.</font></p></div>
+	   <div begin="48.0s" dur="1.0s"><p><![CDATA[<font size="16">Easy!</font></p></div>
+	   
+</body>
+</tt>

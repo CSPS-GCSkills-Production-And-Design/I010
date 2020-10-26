@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="fr">  
+<head>
+    <styling>
+      <style id="defaultCaption" tts:fontSize="16" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="yellow" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+<body STYLE="defaultCaption">
+       <div begin="0.4s" dur="3.40s"><p><![CDATA[<font size="16">Je suis coordonnatrice des ressources humaines,</font></p></div>
+	   <div begin="2.20s" dur="5.50s"><p><![CDATA[<font size="16">alors il est primordial que j’aie les plus récentes versions des fichiers dont je me sers.</font></p></div>
+	   <div begin="7.0s" dur="4.50s"><p><![CDATA[<font size="16">GCDOCS nous donne la certitude que nous accédons aux bons renseignements,</font></p></div>
+	   <div begin="11.0s" dur="4.50s"><p><![CDATA[<font size="16">et que nous aide à demeurer sur la même longueur d’onde.</font></p></div>
+	   <div begin="15.2s" dur="4.8s"><p><![CDATA[<font size="16">J’adore le fait que GCDOCS me permet d’envoyer à mon patron ou à mes collègues</font></p></div>
+	   <div begin="20.0s" dur="6.8s"><p><![CDATA[<font size="16">un lien à mes documents ou à mes courriels, car ils ont ainsi accès aux plus récentes versions.</font></p></div>
+	   <div begin="26.3s" dur="5.8s"><p><![CDATA[<font size="16">Grâce aux liens, chaque fois qu’un fichier est modifié ou actualisé,</font></p></div>
+	   <div begin="31.28s" dur="5.8s"><p><![CDATA[<font size="16">tous les membres de l’équipe ont automatiquement accès à la plus récente version</font></p></div>
+	   <div begin="35.5s" dur="4.6s"><p><![CDATA[<font size="16"> qu’il s’agisse d’un ordre de jour d’une réunion, d’une présentation, ou de la dernière feuille de calcul des avantages sociaux.</font></p></div>
+</body>
+</tt>

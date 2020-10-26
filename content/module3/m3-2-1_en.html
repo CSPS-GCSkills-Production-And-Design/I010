@@ -1,0 +1,119 @@
+<!-- top banner with side-by-side underneath -->
+<style>
+#gc-sim {
+	border: 1px solid grey;
+	background: #f7f9f8;
+	padding-right: 40px;
+}
+#gc-sim > div.top-bar {
+	margin: 10px 10px 0px 10px;
+	height: 30px;
+	background: url(content/medias/images/bg-banner.jpg) no-repeat;
+}
+#gc-sim > p.menu-bar {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	height: 23px;
+	width: 100%;
+}
+#gc-sim > p.menu-bar > a {
+	margin: 20px;
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+}
+#submenu {
+	width: 200px;
+	margin-left: 150px;
+	border: 1px solid #aaa;
+	background: white;
+}
+#submenu >ul {
+	padding: 0px;
+	margin: 0px;
+}
+#submenu > ul >li {
+	list-style: none;
+}
+#submenu >ul >li >a {
+	padding: 7px 10px;
+	color: black;
+	display: block;
+	text-decoration: none;
+}
+#submenu >ul >li >a.border {
+	border: #0194c7 2px solid;
+}
+#submenu >ul >li >a:focus, #submenu >ul >li >a:hover {
+	background: #f9eac1;
+}
+#tooltip {
+	display: none;
+	position: absolute;
+	margin-left: 400px;
+	background: white;
+	padding: 8px;
+	border: #0194c7 1px solid;
+	width: 500px;
+}
+</style>
+<section class="row">
+	<section class="col-md-12 LOM-frame" id="LOMfr_1"><section class="LOM-element placeholder default" data-lom-element="text" id="LOM_el_1" data-lom-subtype="title"><h1><div class="LOM-editable" id="LOM-edit-1"><p>Using the Personal Workspace</p></div></h1>
+<!-- default Object, spawns an object picker -->
+
+</section><section class="LOM-element" data-lom-element="text" id="LOM_el_2">
+	<!-- This element is a plain Text area -->
+	<div class="LOM-editable" id="LOM-edit-2"><h2>The Personal menu (continued)</h2><p>Marie, a manager in human resources, has been asked to take the lead on a new leadership mentoring initiative that will involve employees across her agency.</p><p>Learn how Marie uses&nbsp;<strong>Collections</strong>,&nbsp;<strong>Favorites</strong>&nbsp;and&nbsp;<strong>My Profile</strong>&nbsp;to manage information. Select each of these functions.</p></div>
+</section></section>
+
+
+</section>
+<section class="row">
+	<section class="col-md-12 LOM-frame" id="LOMfr_2"><section class="LOM-element" data-lom-element="custom" id="LOM_el_3">
+	<div id="gc-sim">
+      <div class="top-bar"></div>
+      <p class="menu-bar"><a>Enterprise</a><a>Personal</a><a>Tools</a></p>
+      <div id="tooltip">
+        <p>Tooltip</p>
+      </div>
+      <div id="submenu">
+        <ul>
+          <li><a href="#1">My Workspace</a></li>
+          <li><a href="#2">Personal Frontpage</a></li>
+          <li><a href="#3">Pulse</a></li>
+          <li><a href="#4">Assignments</a></li>
+          <li><a href="#5">Blogs</a></li>
+          <li><a href="#6">Borrowed Items</a></li>
+          <li><a href="#7" class="border" title="Collections allows Marie to group information together, and then share with her co-workers. Rather than constantly navigating through different folders and sub folders to retrieve various mentoring materials, Marie creates a collection of 'Mentoring Resources.' This collection contains links to relevant documents. It can then be saved in her Personal Workspace or shared with others in the Enterprise Workspace." onClick="showToolTip(this, '120px');return false;">Collections</a></li>
+          <li><a href="#8">Communities</a></li>
+          <li><a href="#9">Discussions</a></li>
+          <li><a href="#10" class="border" title="Favorites allows Marie to designate  a document as a 'favorite,' which sets it apart from other items in GCDOCS. It's like bookmarking—it makes the item more accessible. Marie flags her project plan, Gantt chart, budget, and status reports as Favorites so that she can quickly retrieve them." onClick="showToolTip(this, '250px');return false;">Favorites</a></li>
+          <li><a href="#11">Forums</a></li>
+          <li><a href="#12">My Groups</a></li>
+          <li><a href="#13">My Mailbox</a></li>
+          <li><a href="#14" class="border" title="My Profile gives Marie opportunity to create a Profile of herself for her team. She includes a photo of herself, some background information on her professional interests and leisure activities, and the contact information she wishes to share." onClick="showToolTip(this, '400px');return false;">My Profile</a></li>
+          <li><a href="#15">News</a></li>
+          <li><a href="#16">Notification</a></li>
+          <li><a href="#17">Projects</a></li>
+          <li><a href="#18">Prospectors</a></li>
+          <li><a href="#19">Recommendations</a></li>
+          <li><a href="#20">Reports</a></li>
+          <li><a href="#21">Reserved Items</a></li>
+          <li><a href="#22">Search Templates</a></li>
+          <li><a href="#23">Task Lists</a></li>
+          <li><a href="#24">Workflow</a></li>
+        </ul>
+      </div>
+    </div>
+</section></section>
+
+
+</section>
+<script type="text/javascript">
+	function showToolTip(objClick, marginTop){
+		$("#tooltip").show();
+		$("#tooltip").html($(objClick).attr("title"))
+		$("#tooltip").css( "marginTop" ,marginTop)
+		
+	}
+</script>

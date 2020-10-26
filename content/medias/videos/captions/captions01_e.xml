@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">  
+<head>
+    <styling>
+      <style id="defaultCaption" tts:fontSize="16" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="yellow" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+<body STYLE="defaultCaption">
+       <div begin="0.5s" dur="3.10s"><p><![CDATA[<font size="16">I work with project teams scattered across the country and the NCR. </font></p></div>
+      <div begin="3.60s" dur="5.40s"><p><![CDATA[<font size="16">GCDOCS makes it a whole lot easier for team members to share files and stay in touch.</font></p></div>
+       <div begin="8.50s" dur="3.80s"><p><![CDATA[<font size="16">More important it helps us ensure we're always on the same page.</font></p></div>
+      <div begin="12.25s" dur="3.20s"><p><![CDATA[<font size="16">GCDOCS keeps our shared files synchronized</font></p></div>
+	   <div begin="15.30s" dur="3.0s"><p><![CDATA[<font size="16">so we always know we're working with the latest version</font></p></div>
+	   <div begin="17.50s" dur="5.50s"><p><![CDATA[<font size="16">of our team documents—no matter who created it originally or who updated it.</font></p></div>
+       <div begin="22.30s" dur="2.90"><p><![CDATA[<font size="16">I'm not the most organized person.</font></p></div>
+      <div begin="24.75s" dur="3.20s"><p><![CDATA[<font size="16">Finding documents when I need them used to be a real pain.</font></p></div>
+      <div begin="28.00s" dur="2.20s"><p><![CDATA[<font size="16">GCDOCS has straightened my life.</font></p></div>
+       <div begin="30.50s" dur="3.70s"><p><![CDATA[<font size="16">Its filing system is standardized and centralized.</font></p></div>
+      <div begin="33.90s" dur="3.70s"><p><![CDATA[<font size="16">This makes it really simple to organize everything.</font></p></div>
+     <div begin="37.30s" dur="3.95s"><p><![CDATA[<font size="16">I can easily find and retrieve team documents when I need them.</font></p></div>        
+	 <div begin="41.0s" dur="4.95s"><p><![CDATA[<font size="16">If there's ever any difficulty, I can rely on GCDOCS' powerful search function. </font></p></div>
+      <div begin="46.0s" dur="4.25s"><p><![CDATA[<font size="16">I like the fact that emails and large documents can be stored and sent as links.</font></p></div>
+      <div begin="50.0s" dur="3.95s"><p><![CDATA[<font size="16">GCDOCS makes it easy to keep everyone up to speed and up to date.</font></p></div>
+      <div begin="53.85s" dur="6.20s"><p><![CDATA[<font size="16">We don't have to keep sending and re-sending huge files every time a document or spreadsheet is revised.</font></p></div>
+      <div begin="60.3s" dur="4.8s"><p><![CDATA[<font size="16">This not only saves space—it saves time and avoids potential confusion.</font></p></div>
+      <div begin="64.60s" dur="2.50s"><p><![CDATA[<font size="16">The great thing about GCDOCS</font></p></div>
+      <div begin="65.8s" dur="4.70s"><p><![CDATA[<font size="16">is that it gives me a public space where I can store the documents that need to be shared and accessed</font></p></div>
+      <div begin="70.0s" dur="2.70s"><p><![CDATA[<font size="16">by my colleagues and others in the department.</font></p> </div>
+      <div begin="72.20s" dur="3.20s"><p><![CDATA[<font size="16">GCDOCS also lets me bookmark my important files</font></p></div>
+	  <div begin="75.0s" dur="0.90s"><p><![CDATA[<font size="16">my Favourites</font></p></div>
+	  <div begin="75.80s" dur="2.80s"><p><![CDATA[<font size="16">so I can quickly access them when I need them.</font></p></div>
+</body>
+</tt>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="fr">  
+<head>
+    <styling>
+      <style id="defaultCaption" tts:fontSize="16" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="yellow" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+<body STYLE="defaultCaption">
+       <div begin="0.2s" dur="3.40s"><p><![CDATA[<font size="16">Je suis ingénieur des systèmes à l’Agence spatiale canadienne. </font></p></div>
+	   <div begin="3.40s" dur="5.50s"><p><![CDATA[<font size="16">Je travaille constamment avec des équipes situées aux quatre coins du pays. </font></p></div>
+	   <div begin="7.0s" dur="5.50s"><p><![CDATA[<font size="16">Nous utilisons GCDOCS comme un outil de collaboration pour nous aider à travailler à distance,</font></p></div>
+	   <div begin="12.0s" dur="5.50s"><p><![CDATA[<font size="16">à collaborer dans le cadre de nos projets et à coordonner le déroulement du travail.</font></p></div>
+	   <div begin="16.6s" dur="6.8s"><p><![CDATA[<font size="16">Par exemple, je travaille actuellement sur un projet dans le cadre duquel nos équipes sont constamment appelées à créer,</font></p></div>
+	   <div begin="22.7s" dur="6.8s"><p><![CDATA[<font size="16">à analyser et à réviser des documents de planification et des feuilles de calcul.</font></p></div>
+	   <div begin="28.3s" dur="8.8s"><p><![CDATA[<font size="16">Grâce à GCDOCS, il nous est bien plus facile de coordonner ces activités et de partager instantanément nos fichiers de projet.</font></p></div>
+	   <div begin="36.28s" dur="6.8s"><p><![CDATA[<font size="16">Avant GCDOCS, il n’était pas toujours facile de trouver et de récupérer nos fichiers à l’aide des lecteurs partagés.</font></p></div>
+	   <div begin="42.5s" dur="7.8s"><p><![CDATA[<font size="16">GCDOCS nous permet de sauvegarder des fichiers dans un endroit commun</font></p></div>
+	   <div begin="46.5s" dur="4.8s"><p><![CDATA[<font size="16">l’espace de travail Entreprise.</font></p></div>
+	   <div begin="48.7s" dur="7.8s"><p><![CDATA[<font size="16">Désormais, je sais exactement où trouver chaque document de projet quand j’en ai besoin.</font></p></div>
+	   <div begin="53.9s" dur="7.8s"><p><![CDATA[<font size="16">Ça permet à tous les membres de notre équipe de gagner du temps.</font></p></div>
+	   <div begin="57.5s" dur="7.8s"><p><![CDATA[<font size="16">Tout aussi important, GCDOCS nous facilite la tâche de garder nos fichiers à jour,</font></p></div>
+	    <div begin="61.8s" dur="3.6s"><p><![CDATA[<font size="16">pour que nous ayons toujours la certitude d’utiliser les plus récents fichiers de projet.</font></p></div>
+	   
+	   
+	   
+	   
+	   
+</body>
+</tt>

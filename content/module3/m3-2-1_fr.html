@@ -1,0 +1,127 @@
+<!-- top banner with side-by-side underneath -->
+<style>
+#gc-sim {
+	border: 1px solid grey;
+	background: #f7f9f8;
+	padding-right: 40px;
+}
+#gc-sim > div.top-bar {
+	margin: 10px 10px 0px 10px;
+	height: 30px;
+	background: url(content/medias/images/bg-banner.jpg) no-repeat;
+}
+#gc-sim > p.menu-bar {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	height: 23px;
+	width: 100%;
+}
+#gc-sim > p.menu-bar > a {
+	margin: 20px;
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+}
+#submenu {
+	width: 200px;
+	margin-left: 150px;
+	border: 1px solid #aaa;
+	background: white;
+}
+#submenu >ul {
+	padding: 0px;
+	margin: 0px;
+}
+#submenu > ul >li {
+	list-style: none;
+}
+#submenu >ul >li >a {
+	padding: 7px 10px;
+	color: black;
+	display: block;
+	text-decoration: none;
+}
+#submenu >ul >li >a.border {
+	border: #0194c7 2px solid;
+}
+#submenu >ul >li >a:focus, #submenu >ul >li >a:hover {
+	background: #f9eac1;
+}
+#tooltip {
+	display: none;
+	position: absolute;
+	margin-left: 400px;
+	background: white;
+	padding: 8px;
+	border: #0194c7 1px solid;
+	width: 500px;
+}
+</style>
+<section class="row">
+	<section class="col-md-12 LOM-frame" id="LOMfr_1"><section class="LOM-element placeholder default" data-lom-element="text" id="LOM_el_1" data-lom-subtype="title"><h1><div class="LOM-editable" id="LOM-edit-1"><p>Utilisation de l’espace de travail Personnel</p>
+</div></h1>
+<!-- default Object, spawns an object picker -->
+
+</section><section class="LOM-element" data-lom-element="text" id="LOM_el_2">
+	<!-- This element is a plain Text area -->
+	<div class="LOM-editable" id="LOM-edit-2"><h2>Le menu Personnel (suite)</h2>
+
+<p>Marie est gestionnaire de ressources humaines. On lui a demandé de diriger une nouvelle initiative de mentorat en leadership à laquelle prendront part des employés provenant de l’ensemble de son organisme.</p>
+
+<p>Découvrez comment Marie utilise&nbsp;<strong>Collections</strong>,&nbsp;<strong>Favoris</strong>&nbsp;et&nbsp;<strong>Mon profil</strong>&nbsp;pour gérer de l’information.</p>
+
+<p>Pour en savoir davantage, sélectionnez chaque fonction.</p>
+</div>
+</section></section>
+
+
+</section>
+<section class="row">
+	<section class="col-md-12 LOM-frame" id="LOMfr_2"><section class="LOM-element" data-lom-element="custom" id="LOM_el_3">
+	<div id="gc-sim">
+      <div class="top-bar"></div>
+      <p class="menu-bar"><a>Entreprise</a><a>Personnel</a><a>Outils</a></p>
+      <div id="tooltip">
+        <p>Info-bulle</p>
+      </div>
+      <div id="submenu">
+        <ul>
+          <li><a href="#1">Mon espace de travail</a></li>
+          <li><a href="#2">Accueil personnel</a></li>
+          <li><a href="#3">Pulse</a></li>
+          <li><a href="#4">Blogs</a></li>
+          <li><a href="#5" class="border" title="La fonction Collections permet à Marie de rassembler de l’information et, par la suite, de la partager avec ses collègues. Plutôt que d’avoir à naviguer constamment dans différents répertoires et sous-répertoires à la recherche de divers documents touchant le mentorat, Marie crée une collection de «&nbsp;ressources sur le mentorat&nbsp;», qui contient des hyperliens menant à des documents pertinents. Elle peut alors stocker la collection dans son espace de travail personnel ou la partager avec d’autres dans l’espace Entreprise." onclick="showToolTip(this, '120px');return false;">Collections</a></li>
+          <li><a href="#6">Communautés</a></li>
+          <li><a href="#7">Discussions</a></li>
+          <li><a href="#8">Eléments empruntés</a></li>
+          <li><a href="#9">Eléments réservés</a></li>
+          <li><a href="#10" class="border" title="La fonction Favoris permet à Marie de désigner un document comme un «&nbsp;favori&nbsp;», ce qui le distingue d’autres éléments stockés dans GCDOCS. C’est comme marquer un document à l’aide d’un signet – il devient alors plus accessible. Marie marque ainsi son plan de projet, son diagramme de Gantt, son budget et ses rapports d’étape comme des favoris pour qu’elle puisse les retrouver rapidement." onclick="showToolTip(this, '250px');return false;">Favoris</a></li>
+          <li><a href="#11">Forums</a></li>
+          <li><a href="#12">Listes de tâches</a></li>
+          <li><a href="#13">Ma boîte de réception</a></li>
+          <li><a href="#14">Mes groupes</a></li>
+          <li><a href="#15">Modèles de recherche</a></li>
+          <li><a href="#16" class="border" title="La fonction Mon profil donne à Marie l’occasion de créer son propre profil à l’intention de son équipe. Elle y met une photographie d’elle-même, quelques renseignements sur ses intérêts professionnels et ses activités de loisir, ainsi que les coordonnées qu’elle souhaite diffuser." onclick="showToolTip(this, '440px');return false;">Mon profil</a></li>
+          <li><a href="#17">Notification</a></li>
+          <li><a href="#18">Nouvelles</a></li>
+          <li><a href="#19">Projets</a></li>
+          <li><a href="#20">Prospecteurs</a></li>
+          <li><a href="#21">Rapports</a></li>
+          <li><a href="#22">Recommandations</a></li>
+          <li><a href="#23">Tâches assignées</a></li>
+          <li><a href="#24">Workflows</a></li>
+        </ul>
+      </div>
+    </div>
+</section></section>
+
+
+</section>
+<script type="text/javascript">
+	function showToolTip(objClick, marginTop){
+		$("#tooltip").show();
+		$("#tooltip").html($(objClick).attr("title"))
+		$("#tooltip").css( "marginTop" ,marginTop)
+		
+	}
+</script>

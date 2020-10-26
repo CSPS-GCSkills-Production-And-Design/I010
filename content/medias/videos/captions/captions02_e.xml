@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/2006/04/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xml:lang="en">  
+<head>
+    <styling>
+      <style id="defaultCaption" tts:fontSize="16" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="yellow" tts:backgroundColor="black" tts:textAlign="center" />
+    </styling>
+  </head>
+<body STYLE="defaultCaption">
+       <div begin="0.2s" dur="3.70s"><p><![CDATA[<font size="16">To be honest, I'm not the most organized person in the world.</font></p></div>
+      <div begin="3.90s" dur="4.40s"><p><![CDATA[<font size="16">I'm a management coordinator so this is a bit of a problem.</font></p></div>
+       <div begin="8.20s" dur="5.50s"><p><![CDATA[<font size="16">For me, filing documents properly and finding them has always been frustrating and stressful.</font></p></div>
+	   <div begin="13.70s" dur="3.50s"><p><![CDATA[<font size="16">GCDOCS has made my life a whole lot easier.</font></p></div>
+	   <div begin="16.70s" dur="2.0s"><p><![CDATA[<font size="16">I do a lot of presentations.</font></p></div>
+	   <div begin="18.70s" dur="7.80s"><p><![CDATA[<font size="16">The GCDOCS menu functions are so logical it's easy for me to organize, save and locate them in the system.</font></p></div>
+	   <div begin="25.80s" dur="8.0s"><p><![CDATA[<font size="16">Also, it works with the applications I use the most—MS Word, PowerPoint, and Outlook. </font></p></div>
+	   <div begin="32.60s" dur="7.5s"><p><![CDATA[<font size="16">With GCDOCS, everyone in the department now uses the same method to categorize and save working files.</font></p></div>
+	   <div begin="39.75s" dur="3.0s"><p><![CDATA[<font size="16"> I really appreciate that.</font></p></div>
+	   <div begin="42.60s" dur="4.0s"><p><![CDATA[<font size="16">Now I don't have to keep asking my colleagues where things are.</font></p></div>
+	   <div begin="45.70s" dur="7.0s"><p><![CDATA[<font size="16">At the same time, I don't have to keep explaining to others how and where I've stored team files.</font></p></div>
+	   <div begin="51.40s" dur="5.55s"><p><![CDATA[<font size="16">All in all, GCDOCS saves us all time. And, it makes my life a lot less stressful.</font></p></div>	    
+     
+</body>
+</tt>
